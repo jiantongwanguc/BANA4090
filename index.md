@@ -4,13 +4,6 @@ layout: default
 
 Welcome to **Forecasting and Risk (BANA 4090)**! This course is for junior/senior undergraduate students. The main objective of this course is to provide you with the proper foundation to analyze and forecast time series data in the professional setting. This means that in addition to forecasting into the future and evaluating such forecasts we will discuss other topics to prepare you for your journey as an analyst.  A survey of analytical techniques used in forecasting. Techniques include exponential smoothing, ARIMA, multiple regression and judgement-based methods.  Implementation issues and challenges are discussed.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 ## Class Information
 * Name: Jiantong Wang
@@ -41,27 +34,10 @@ While I will try to focus on the application over the theory to maximize the abo
 * provide of project for portfolio 
 *	practice with R programming language as it relates to time series data 
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 
 
-
-## Lecture materials (slides) and code demonstrating the relevant methods.
+## Lecture materials and code demonstrating the relevant methods.
 
 |                               Module                                | Description                                               |
 | :-----------------------------------------------------------------: | :-------------------------------------------------------- |
