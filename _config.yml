@@ -3,3 +3,5 @@ description: By Jiantong Wang
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+github:
+  is_project_page: false
