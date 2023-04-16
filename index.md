@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Welcome to **Forecasting and Risk (BANA 4090)**! This course is for junior/senior undergraduate students. The main objective of this course is to provide you with the proper foundation to analyze and forecast time series data in the professional setting. This means that in addition to forecasting into the future and evaluating such forecasts we will discuss other topics to prepare you for your journey as an analyst.  A survey of analytical techniques used in forecasting. Techniques include exponential smoothing, ARIMA, multiple regression and judgement-based methods.  Implementation issues and challenges are discussed.
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -10,9 +12,14 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Class Information
+* Name: Jiantong Wang
+* Title: PhD Candidate, Department of Operations, Business Analytics and Information Systems 
+* Office Information: LCB, Room 3327 
+* Email: wang5jt@mail.uc.edu
+* Office Hours: Monday & Wednesday 11:00 AM to 12:00 PM and by appointment
+ 
+Communication Policy: Students are encouraged to contact me anytime via email or Canvas. Please use email as the primary mode of contact.  A response will be given within 36-48 hours.  Please understand that I cannot guarantee an immediate response if you contact me very close to an assignment deadline. 
 
 ## Header 2
 
