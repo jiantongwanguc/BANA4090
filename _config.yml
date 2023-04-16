@@ -1,7 +1,5 @@
-title: "Forecasting and Risk (BANA 4090)"
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-description: "By Jiantong Wang"
-github:
-  is_project_page: false
+title: Risk and Forest BANA 4090
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
