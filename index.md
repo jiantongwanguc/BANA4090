@@ -21,11 +21,25 @@ There should be whitespace between paragraphs. We recommend including a README, 
  
 Communication Policy: Students are encouraged to contact me anytime via email or Canvas. Please use email as the primary mode of contact.  A response will be given within 36-48 hours.  Please understand that I cannot guarantee an immediate response if you contact me very close to an assignment deadline. 
 
-## Header 2
+## Learning Objectives
+
+* Provide students with a foundational knowledge of time series analysis
+* Expose students to a number of traditional and contemporary methods in time series and forecasting
+* Familiarize students with many of the challenges associated with time series forecasting
+* Provide students with practical experience analyzing real-world data and communicating the results
+
+
+While I will try to focus on the application over the theory to maximize the above objectives, I will provide additional optional reading for those interested in a deeper dive into the theory 🚀. 
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
+
+
+## Upon successfully completing this course, you will be able to: 
+* have a solid foundation for approaching time series analysis and forecasting projects in the future 
+* provide of project for portfolio 
+*	practice with R programming language as it relates to time series data 
 
 ### Header 3
 
