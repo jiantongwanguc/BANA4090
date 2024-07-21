@@ -36,33 +36,33 @@ While I will try to focus on the application over the theory to maximize the abo
 
 ## Lecture materials and code demonstrating the relevant methods.
 
-|                             Module                              | Description                                                       |
-|:---------------------------------------------------------------:|:------------------------------------------------------------------|
-|                              **1**                              | **Module 1 – Introduction to Time Series Analysis (weeks 1-3)**   |
-|                   [R lab-1](Week-1-Lab.html)                    | •	Introduction to R & Rstudio                                      |
-|                   [R lab-2](Week-2-Lab.html)                    | •	Visualization for Time Series Data                               |
-|                   [R lab-3](Week-3-Lab.html)                    | •	Wrangling with Time Series Data                                  |
-|            [Review Session - 1](Module_1_cases.html)            | •	Review for Module 1                                              |
-|          [Mini Cases Studies - 1](Module_1_cases.html)          | •	Mini Case Studies for Module 1                                   |
-|                              **2**                              | **Module 2 – Forecasting Models: State Space Models (weeks 4-7)** |
-|                   [R lab-4](Week-4-Lab.html)                    | •	R lab    (Basic Tools for Forecasting-I)                         |
-|                   [R lab-5](Week-5-Lab.html)                    | •	R lab    (Basic Tools for Forecasting-II)                        |
-|                   [R lab-6](Week-6-Lab.html)                    | •	R lab	(Evaluation of Model Performance)                           |
-|         [Review Session  - 2](BANA4090_Week7_Lab7.html)         | •	Review for Module 2                                              |
-|       [Mini Cases Studies - 2](BANA4090_Week7_Lab7.html)        | •	Mini Case Studies for Module 2                                   |
-|                        **Midterm Exam**                         | **Midterm Exam (weeks 8)**                                        |
-|         [Practice Exam](Solutions_to_Practice_Exam.pdf)         | •	Solution and Explanation to Practice Exam                        |
-|                              **3**                              | **Module 3 – Forecasting Models: ARIMA (weeks 9-11)**             |
-|                    [R lab-7](ACF_PACF.html)                     | •	R lab (ARIMA-I: ACF and PACF)                                    |
-|                      [R lab-8](Lab10.html)                      | •	R lab (ARIMA-II: ARMA and ARIMA)                                 |
-|                      [R lab-9](Lab11.html)                      | •	R lab (Seasonal ARIMA models)                                    |
-|         [Review Session  - 3](BANA4090_Week7_Lab7.html)         | •	Review for Module 3                                              |
-|       [Mini Cases Studies - 3](BANA4090_Week7_Lab7.html)        | •	Mini Case Studies for Module 3                                   |
-|                              **4**                              | **Module 4 – Final Project   (weeks 12-13)**                      |
-|    [Final Project Guidelines](Final_Project_Guidelines.pdf)     | •	Guidelines to Final Project                                      |
-| [Possible Datasets](/Possible_dataset/data_set_description.pdf) | •   Provided Possible Datasets for Final Project                  |
-|             [Possible Datasets](/Possible_dataset/)             | •   Provided Possible Datasets for Final Project                  |
-|             [Example Report](UK_Sales_Example.pdf)              | •	Example Final Project Report                                     |
+|                                               Module                                               | Description                                                       |
+|:--------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------|
+|                                               **1**                                                | **Module 1 – Introduction to Time Series Analysis (weeks 1-3)**   |
+|                                     [R lab-1](Week-1-Lab.html)                                     | •	Introduction to R & Rstudio                                      |
+|                                     [R lab-2](Week-2-Lab.html)                                     | •	Visualization for Time Series Data                               |
+|                                     [R lab-3](Week-3-Lab.html)                                     | •	Wrangling with Time Series Data                                  |
+|                             [Review Session - 1](Module_1_cases.html)                              | •	Review for Module 1                                              |
+|                           [Mini Cases Studies - 1](Module_1_cases.html)                            | •	Mini Case Studies for Module 1                                   |
+|                                               **2**                                                | **Module 2 – Forecasting Models: State Space Models (weeks 4-7)** |
+|                                     [R lab-4](Week-4-Lab.html)                                     | •	R lab    (Basic Tools for Forecasting-I)                         |
+|                                     [R lab-5](Week-5-Lab.html)                                     | •	R lab    (Basic Tools for Forecasting-II)                        |
+|                                     [R lab-6](Week-6-Lab.html)                                     | •	R lab	(Evaluation of Model Performance)                           |
+|                          [Review Session  - 2](BANA4090_Week7_Lab7.html)                           | •	Review for Module 2                                              |
+|                         [Mini Cases Studies - 2](BANA4090_Week7_Lab7.html)                         | •	Mini Case Studies for Module 2                                   |
+|                                          **Midterm Exam**                                          | **Midterm Exam (weeks 8)**                                        |
+|                          [Practice Exam](Solutions_to_Practice_Exam.pdf)                           | •	Solution and Explanation to Practice Exam                        |
+|                                               **3**                                                | **Module 3 – Forecasting Models: ARIMA (weeks 9-11)**             |
+|                                      [R lab-7](ACF_PACF.html)                                      | •	R lab (ARIMA-I: ACF and PACF)                                    |
+|                                       [R lab-8](Lab10.html)                                        | •	R lab (ARIMA-II: ARMA and ARIMA)                                 |
+|                                       [R lab-9](Lab11.html)                                        | •	R lab (Seasonal ARIMA models)                                    |
+|                          [Review Session  - 3](BANA4090_Week7_Lab7.html)                           | •	Review for Module 3                                              |
+|                         [Mini Cases Studies - 3](BANA4090_Week7_Lab7.html)                         | •	Mini Case Studies for Module 3                                   |
+|                                               **4**                                                | **Module 4 – Final Project   (weeks 12-13)**                      |
+|                      [Final Project Guidelines](Final_Project_Guidelines.pdf)                      | •	Guidelines to Final Project                                      |
+| [Possible Datasets](https://https://github.com/jiantongwanguc/BANA4090/tree/main/Possible_dataset) | •   Provided Possible Datasets for Final Project                  |
+|            [Possible Datasets Description](/Possible_dataset/data_set_description.pdf)             | •   Description to Provided Possible Datasets                     |
+|                               [Example Report](UK_Sales_Example.pdf)                               | •	Example Final Project Report                                     |
   
 ## Description of Major Assignments
  
