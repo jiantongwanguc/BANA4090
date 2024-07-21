@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Welcome to **Forecasting and Risk Analysis (BANA 4090)**! This course is for junior/senior undergraduate students. The main objective of this course is to provide you with the proper foundation to analyze and forecast time series data in the professional setting. This means that in addition to forecasting into the future and evaluating such forecasts we will discuss other topics to prepare you for your journey as an analyst.  A survey of analytical techniques used in forecasting. Techniques include exponential smoothing, ARIMA, multiple regression and judgement-based methods.  Implementation issues and challenges are discussed.
+Welcome to **Forecasting and Risk Analysis (BANA 4090)**! This course is for junior/senior undergraduate students. The main objective of this course is to provide you with the proper foundation to analyze and forecast time series data in the professional setting. This means that in addition to forecasting into the future and evaluating such forecasts we will discuss other topics to prepare you for your journey as an analyst.  A survey of analytical techniques used in forecasting. Techniques include exponential smoothing, Holt-Winters Model, ARMA, ARIMA models and model performance assessments.  Implementation issues and challenges are discussed.
 
 
 ## Class Information
