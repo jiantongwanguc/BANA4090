@@ -36,33 +36,34 @@ While I will try to focus on the application over the theory to maximize the abo
 
 ## Lecture materials and code demonstrating the relevant methods.
 
-|                               Module                               | Description                                               |
-|:------------------------------------------------------------------:|:----------------------------------------------------------|
-|                               **1**                                | **Module 1 – Practical Time Series Analysis (weeks 1-3)** |
-|              [Welcome Lecture and Notes](Welcome.pdf)              | •	Why is time series analysis and forecasting important?  |
-|              [Practical Time Series Analysis](W2.pdf)              | •	How to approach a forecasting problem                   |
-|               [R lab-1](Introduction_to_R.html)                    | •	Visualization and exploration of time series data       |
-|      [R lab-2](Week-2-Lab.html)                                    | •		Basic Tools For Forecasting                     |
-|                         [R lab-3](W3.html)                         | •	Features of time series data                            |
-|                               **2**                                | **Module 2 – Forecasting Basics (weeks 4-6)**             |
-|               [Forecasting Basics-Part I](Ch3-1.pdf)               | •Four simple forecasting models                           |
-|              [Forecasting Basics-Part II](Ch3-2.pdf)               | •	Forecasting process                                     |
-| [R lab-4](BANA4090_Week4_Lab5_Data-Examples_German-Forecasts.html) | •	R lab    (Basic tools For forecasting-I)                |
-| [R lab-5](BANA4090_Week5_Lab6_Data-Examples_German-Forecasts.html) | •	R lab      (Basic tools For forecasting-II)             |
-|                [R lab-6](BANA4090_Week7_Lab7.html)                 | •	R lab	(Evaluation of model performance-I)               |
-|                               **3**                                | **Module 3 – Forecasting Models (weeks 7-10)**             |
-|                     [ARIMA-Part I](Ch4-1.pdf)                      | •	ARIMA models-I                                          |
-|                     [ARIMA-Part II](Ch4-2.pdf)                     | •	ARIMA models-II                                         |
-|                    [ARIMA-Part III](Ch4-3.pdf)                     | •	ARIMA models-III                                        |
-|                     [ARIMA-Part IV](Ch4-4.pdf)                     | •	Seasonal ARIMA models                                   |
-|                [R lab-7](BANA4090_Week8_Lab8.html)                 | •	R lab	(Evaluation of model performance-II)              |
-|                [R lab-8](BANA4090_Week9_Lab9.html)                 | •	R lab (ARIMA-I)                                         |
-|               [R lab-9]( BANA4090_Week11_Lab10.html)               | •	R lab (ARIMA-II)                                        |
-|                               **4**                                | **Module 4 – Additional Topics   (weeks 11-14)**          |
-|                   [Additional Topics](Ch5-1.pdf)                   | •	Exponential smoothing-I                                 |
-|               [R lab-10](BANA4090_Week12_Lab11.html)               | • R lab (Simple Exponential Smoothing)                    |
-|                      [R lab-11](Week13.html)                       | •	R lab (Holt's Method)                                   |
-|                      [R lab-12]( Week14.html)                      | •	R lab (Holt-Winter Method)                              |
+|                               Module                               | Description                                                        |
+|:------------------------------------------------------------------:|:-------------------------------------------------------------------|
+|                               **1**                                | **Module 1 – Introduction to Time Series Analysis (weeks 1-3)**    |
+|              [Welcome Lecture and Notes](Welcome.pdf)              | •	Why is time series and forecasting important? & Introduction to R |
+|              [Practical Time Series Analysis](W2.pdf)              | •	Basic tools and visualization for time series data.               |
+|              [Practical Time Series Analysis](W2.pdf)              | •	Basic tools and visualization for time series data.               |
+|                 [R lab-1](Introduction_to_R.html)                  | •	Introduction to R & Rstudio                                       |
+|                     [R lab-2](Week-2-Lab.html)                     | •	Visualization for time series data                                |
+|                         [R lab-3](W3.html)                         | •	Wrangling with time series data                                   |
+|                               **2**                                | **Module 2 – Forecasting Models: State Space Models (weeks 4-6)**  |
+|               [Forecasting Basics-Part I](Ch3-1.pdf)               | •Four simple forecasting models                                    |
+|              [Forecasting Basics-Part II](Ch3-2.pdf)               | •	Forecasting process                                               |
+| [R lab-4](BANA4090_Week4_Lab5_Data-Examples_German-Forecasts.html) | •	R lab    (Basic tools For forecasting-I)                          |
+| [R lab-5](BANA4090_Week5_Lab6_Data-Examples_German-Forecasts.html) | •	R lab      (Basic tools For forecasting-II)                       |
+|                [R lab-6](BANA4090_Week7_Lab7.html)                 | •	R lab	(Evaluation of model performance-I)                          |
+|                               **3**                                | **Module 3 – Forecasting Models: ARIMA (weeks 7-10)**              |
+|                     [ARIMA-Part I](Ch4-1.pdf)                      | •	ARIMA models-I                                                    |
+|                     [ARIMA-Part II](Ch4-2.pdf)                     | •	ARIMA models-II                                                   |
+|                    [ARIMA-Part III](Ch4-3.pdf)                     | •	ARIMA models-III                                                  |
+|                     [ARIMA-Part IV](Ch4-4.pdf)                     | •	Seasonal ARIMA models                                             |
+|                [R lab-7](BANA4090_Week8_Lab8.html)                 | •	R lab	(Evaluation of model performance-II)                         |
+|                [R lab-8](BANA4090_Week9_Lab9.html)                 | •	R lab (ARIMA-I)                                                   |
+|               [R lab-9]( BANA4090_Week11_Lab10.html)               | •	R lab (ARIMA-II)                                                  |
+|                               **4**                                | **Module 4 – Additional Topics   (weeks 11-14)**                   |
+|                   [Additional Topics](Ch5-1.pdf)                   | •	Exponential smoothing-I                                           |
+|               [R lab-10](BANA4090_Week12_Lab11.html)               | • R lab (Simple Exponential Smoothing)                             |
+|                      [R lab-11](Week13.html)                       | •	R lab (Holt's Method)                                             |
+|                      [R lab-12]( Week14.html)                      | •	R lab (Holt-Winter Method)                                        |
   
 ## Description of Major Assignments
  
@@ -74,5 +75,16 @@ While I will try to focus on the application over the theory to maximize the abo
  
  - **Project**  – The project is a core component of this course. Students will pick a topic and dataset of their choosing to analyze and forecast with the methods taught in this course (and ideally some additional methods). These topics will be submitted during week 6 and the analyses will be presented during week 15. In lieu of a final exam, students will submit a reproducible markdown/notebook.
 
+**Class video, homework and class projects are available in Canvas. Please check homework in Canvas and submit all your homework through Canvas. All announcements are in Canvas.**
 
+<!---Contributors:  
+- Jiantong Wang, PhD Candidate in Business Analytics, wang5jt@mail.uc.edu--->
+ 
 
+Acknowledgments: I have drawn ideas or readings from the following texts:
+ - Rob J Hyndman and George Athanasopoulos, [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/)
+ - Bradley Boehmke, [UC BANA 6043 Statistical Computing](https://github.com/bradleyboehmke/uc-bana-6043)
+ - Ethan Swan, [Python for Data Science](https://github.com/uc-python)
+ - And many more.
+<!--- Dan Shah, Applied Forecasting--->
+<!---Alexander K. Antony,  Forecasting methods--->
