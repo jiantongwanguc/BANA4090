@@ -36,34 +36,27 @@ While I will try to focus on the application over the theory to maximize the abo
 
 ## Lecture materials and code demonstrating the relevant methods.
 
-|                               Module                               | Description                                                        |
-|:------------------------------------------------------------------:|:-------------------------------------------------------------------|
-|                               **1**                                | **Module 1 – Introduction to Time Series Analysis (weeks 1-3)**    |
-|              [Welcome Lecture and Notes](Welcome.pdf)              | •	Why is time series and forecasting important? & Introduction to R |
-|              [Practical Time Series Analysis](W2.pdf)              | •	Basic tools and visualization for time series data.               |
-|              [Practical Time Series Analysis](W2.pdf)              | •	Basic tools and visualization for time series data.               |
-|                 [R lab-1](Introduction_to_R.html)                  | •	Introduction to R & Rstudio                                       |
-|                     [R lab-2](Week-2-Lab.html)                     | •	Visualization for time series data                                |
-|                         [R lab-3](W3.html)                         | •	Wrangling with time series data                                   |
-|                               **2**                                | **Module 2 – Forecasting Models: State Space Models (weeks 4-6)**  |
-|               [Forecasting Basics-Part I](Ch3-1.pdf)               | •Four simple forecasting models                                    |
-|              [Forecasting Basics-Part II](Ch3-2.pdf)               | •	Forecasting process                                               |
-| [R lab-4](BANA4090_Week4_Lab5_Data-Examples_German-Forecasts.html) | •	R lab    (Basic tools For forecasting-I)                          |
-| [R lab-5](BANA4090_Week5_Lab6_Data-Examples_German-Forecasts.html) | •	R lab      (Basic tools For forecasting-II)                       |
-|                [R lab-6](BANA4090_Week7_Lab7.html)                 | •	R lab	(Evaluation of model performance-I)                          |
-|                               **3**                                | **Module 3 – Forecasting Models: ARIMA (weeks 7-10)**              |
-|                     [ARIMA-Part I](Ch4-1.pdf)                      | •	ARIMA models-I                                                    |
-|                     [ARIMA-Part II](Ch4-2.pdf)                     | •	ARIMA models-II                                                   |
-|                    [ARIMA-Part III](Ch4-3.pdf)                     | •	ARIMA models-III                                                  |
-|                     [ARIMA-Part IV](Ch4-4.pdf)                     | •	Seasonal ARIMA models                                             |
-|                [R lab-7](BANA4090_Week8_Lab8.html)                 | •	R lab	(Evaluation of model performance-II)                         |
-|                [R lab-8](BANA4090_Week9_Lab9.html)                 | •	R lab (ARIMA-I)                                                   |
-|               [R lab-9]( BANA4090_Week11_Lab10.html)               | •	R lab (ARIMA-II)                                                  |
-|                               **4**                                | **Module 4 – Additional Topics   (weeks 11-14)**                   |
-|                   [Additional Topics](Ch5-1.pdf)                   | •	Exponential smoothing-I                                           |
-|               [R lab-10](BANA4090_Week12_Lab11.html)               | • R lab (Simple Exponential Smoothing)                             |
-|                      [R lab-11](Week13.html)                       | •	R lab (Holt's Method)                                             |
-|                      [R lab-12]( Week14.html)                      | •	R lab (Holt-Winter Method)                                        |
+|                       Module                       | Description                                                       |
+|:--------------------------------------------------:|:------------------------------------------------------------------|
+|                       **1**                        | **Module 1 – Introduction to Time Series Analysis (weeks 1-3)**   |
+|             [R lab-1](Week-1-Lab.html)             | •	Introduction to R & Rstudio                                      |
+|             [R lab-2](Week-2-Lab.html)             | •	Visualization for time series data                               |
+|             [R lab-3](Week-3-Lab.html)             | •	Wrangling with time series data                                  |
+|   [Mini Cases Studies - 1](Module_1_cases.html)    | •	Mini Case Studies for Module 1                                   |
+|                       **2**                        | **Module 2 – Forecasting Models: State Space Models (weeks 4-6)** |
+|             [R lab-4](Week-4-Lab.html)             | •	R lab    (Basic tools For forecasting-I)                         |
+|             [R lab-5](Week-5-Lab.html)             | •	R lab    (Basic tools For forecasting-II)                        |
+|             [R lab-6](Week-6-Lab.html)             | •	R lab	(Evaluation of model performance-I)                         |
+| [Mini Cases Studies - 2](BANA4090_Week7_Lab7.html) | •	R lab	(Evaluation of model performance-I)                         |
+|                       **3**                        | **Module 3 – Forecasting Models: ARIMA (weeks 7-10)**             |
+|              [R lab-7](ACF_PACF.html)              | •	R lab (ARIMA-I: ACF and PACF)                                    |
+|               [R lab-8](Lab10.html)                | •	R lab (ARIMA-II: ARMA and ARIMA)                                 |
+|               [R lab-9](Lab11.html)                | •	R lab (Seasonal ARIMA models)                                    |
+|                       **4**                        | **Module 4 – Additional Topics   (weeks 11-14)**                  |
+|           [Additional Topics](Ch5-1.pdf)           | •	Exponential smoothing-I                                          |
+|       [R lab-10](BANA4090_Week12_Lab11.html)       | • R lab (Simple Exponential Smoothing)                            |
+|              [R lab-11](Week13.html)               | •	R lab (Holt's Method)                                            |
+|              [R lab-12]( Week14.html)              | •	R lab (Holt-Winter Method)                                       |
   
 ## Description of Major Assignments
  
