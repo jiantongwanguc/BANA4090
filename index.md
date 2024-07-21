@@ -60,7 +60,7 @@ While I will try to focus on the application over the theory to maximize the abo
 |                         [Mini Cases Studies - 3](BANA4090_Week7_Lab7.html)                         | •	Mini Case Studies for Module 3                                   |
 |                                               **4**                                                | **Module 4 – Final Project   (weeks 12-13)**                      |
 |                      [Final Project Guidelines](Final_Project_Guidelines.pdf)                      | •	Guidelines to Final Project                                      |
-| [Possible Datasets](https://https://github.com/jiantongwanguc/BANA4090/tree/main/Possible_dataset) | •   Provided Possible Datasets for Final Project                  |
+| [Possible Datasets](https://github.com/jiantongwanguc/BANA4090/tree/main/Possible_dataset) | •   Provided Possible Datasets for Final Project                  |
 |            [Possible Datasets Description](/Possible_dataset/data_set_description.pdf)             | •   Description to Provided Possible Datasets                     |
 |                               [Example Report](UK_Sales_Example.pdf)                               | •	Example Final Project Report                                     |
   
