@@ -42,13 +42,13 @@ While I will try to focus on the application over the theory to maximize the abo
 |                                 [R lab-1](Week-1-Lab.html)                                 | •	Introduction to R & Rstudio                                      |
 |                                 [R lab-2](Week-2-Lab.html)                                 | •	Visualization for Time Series Data                               |
 |                                 [R lab-3](Week-3-Lab.html)                                 | •	Wrangling with Time Series Data                                  |
-|                         [Review Session - 1](Module_1_cases.html)                          | •	Review for Module 1                                              |
+|                         [Review Session - 1](Review_Sheet_Module_1.pdf)                          | •	Review for Module 1                                              |
 |                       [Mini Cases Studies - 1](Module_1_cases.html)                        | •	Mini Case Studies for Module 1                                   |
 |                                           **2**                                            | **Module 2 – Forecasting Models: State Space Models (weeks 4-7)** |
 |                                 [R lab-4](Week-4-Lab.html)                                 | •	R lab    (Basic Tools for Forecasting-I)                         |
 |                                 [R lab-5](Week-5-Lab.html)                                 | •	R lab    (Basic Tools for Forecasting-II)                        |
 |                                 [R lab-6](Week-6-Lab.html)                                 | •	R lab	(Evaluation of Model Performance)                           |
-|                      [Review Session  - 2](BANA4090_Week7_Lab7.html)                       | •	Review for Module 2                                              |
+|                      [Review Session  - 2](Module_2_Review_Sheet.pdf)                       | •	Review for Module 2                                              |
 |                     [Mini Cases Studies - 2](BANA4090_Week7_Lab7.html)                     | •	Mini Case Studies for Module 2                                   |
 |                                      **Midterm Exam**                                      | **Midterm Exam (weeks 8)**                                        |
 |                      [Practice Exam](Solutions_to_Practice_Exam.pdf)                       | •	Solution and Explanation to Practice Exam                        |
