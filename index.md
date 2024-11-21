@@ -49,7 +49,7 @@ While I will try to focus on the application over the theory to maximize the abo
 |                                 [R lab-5](Week-5-Lab.html)                                 | •	R lab    (Basic Tools for Forecasting-II)                        |
 |                                 [R lab-6](Week-6-Lab.html)                                 | •	R lab	(Evaluation of Model Performance)                           |
 |                      [Review Session  - 2](Module_2_Review_Sheet.pdf)                       | •	Review for Module 2                                              |
-|                     [Mini Cases Studies - 2](BANA4090_Week7_Lab7.html)                     | •	Mini Case Studies for Module 2                                   |
+|                     [Mini Cases Studies - 2](Module_2_Mini_Cases.html)                     | •	Mini Case Studies for Module 2                                   |
 |                                      **Midterm Exam**                                      | **Midterm Exam (weeks 8)**                                        |
 |                      [Practice Exam](Solutions_to_Practice_Exam.pdf)                       | •	Solution and Explanation to Practice Exam                        |
 |                                           **3**                                            | **Module 3 – Forecasting Models: ARIMA (weeks 9-11)**             |
