@@ -56,7 +56,7 @@ While I will try to focus on the application over the theory to maximize the abo
 |                                  [R lab-7](ACF_PACF.html)                                  | •	R lab (ARIMA-I: ACF and PACF)                                    |
 |                                   [R lab-8](Lab10.html)                                    | •	R lab (ARIMA-II: ARMA and ARIMA)                                 |
 |                                   [R lab-9](Lab11.html)                                    | •	R lab (Seasonal ARIMA models)                                    |
-|                      [Review Session  - 3](BANA4090_Week7_Lab7.html)                       | •	Review for Module 3                                              |
+|                      [Review Session  - 3](Module_3_Review_Sheet.pdf)                       | •	Review for Module 3                                              |
 |                     [Mini Cases Studies - 3](BANA4090_Week7_Lab7.html)                     | •	Mini Case Studies for Module 3                                   |
 |                                           **4**                                            | **Module 4 – Final Project   (weeks 12-13)**                      |
 |                  [Final Project Guidelines](Final_Project_Guidelines.pdf)                  | •	Guidelines to Final Project                                      |
